@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+table,tr,td,th,thead{
+	border:1px solid black;
+	width:500px;
+}
+#a{
+	background-color:lightcoral;
+}
+#b{
+	background-color:orange;
+}
+#c{
+	background-color:whitesmoke;
+}
+#d{
+	background-color:lightgreen;
+}
